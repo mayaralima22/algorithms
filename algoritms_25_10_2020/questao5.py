@@ -26,3 +26,6 @@ def request_pib():
 
         if found_country is False:
             print("País não disponível")
+
+
+#teste
